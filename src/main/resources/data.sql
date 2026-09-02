@@ -1,0 +1,2 @@
+INSERT INTO bodegas (nombre, ubicacion, capacidad, encargado) VALUES ('Bodega Central', 'Bogotá', 5000, 'Juan Pérez');
+INSERT INTO bodegas (nombre, ubicacion, capacidad, encargado) VALUES ('Bodega Norte', 'Medellín', 3000, 'Ana Gómez');
